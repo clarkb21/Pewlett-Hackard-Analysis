@@ -52,6 +52,8 @@
 - Customer Service, Production, Development, and Research departments also have positions with only a few potential mentors.
  
  ![image](https://user-images.githubusercontent.com/104038813/180316540-68380f15-65a1-4f88-a4fd-74f3e104c9df.png)
+ 
+ - The data above can also be organized by the number of potential mentors for each position in each department, seen below:
 
  ![image](https://user-images.githubusercontent.com/104038813/180316476-f16e4d3a-374c-4d80-bd67-2863c1f80c1e.png)
 
