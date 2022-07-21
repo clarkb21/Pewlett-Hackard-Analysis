@@ -47,6 +47,9 @@
 
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+- All 9 departments have qualified, retirement-ready employees with multiple different titles.
+- The Development and Production departments have hundreds of potential engineer mentors, and several Senior Engineers as well.
+- Customer Service, Production, Development, and Research departments also have positions with only a few potential mentors.
  
  ![image](https://user-images.githubusercontent.com/104038813/180316540-68380f15-65a1-4f88-a4fd-74f3e104c9df.png)
 
