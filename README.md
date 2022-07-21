@@ -20,7 +20,12 @@
 - MSU Bootcamp Spot Module 7: https://courses.bootcampspot.com/courses/2508/pages/7-dot-0-1-exploring-databases-with-sql?module_item_id=635439
 
 ## Results
--
+
+### Number of Retiring Employees by Title
+- The company will have to prepare to fill many Senior Engineer and Senior Staff roles in the near future.
+- They will not have to focus too much on filling positions at the Manager level or the Assistant Engineer level.
+
+![image](https://user-images.githubusercontent.com/104038813/180308062-c7dfd420-d92d-46d5-b0c1-6b06967c482b.png)
 
 
 ## Summary
