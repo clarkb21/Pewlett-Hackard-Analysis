@@ -41,6 +41,10 @@
 
 ## Summary
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+-Using a query to count the unique titles from all employees in the specified range for nearing retirement(born between 1952 and 1955) it is calculated that 72,458 different roles will need to be filled within the company. 
+
+![image](https://user-images.githubusercontent.com/104038813/180312027-4b02c0c0-eb95-4463-b7ae-8e78a9ea9e43.png)
+
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
  
