@@ -28,7 +28,9 @@
 ![image](https://user-images.githubusercontent.com/104038813/180308062-c7dfd420-d92d-46d5-b0c1-6b06967c482b.png)
 
 ### Employees Eligible for the Mentorship Program
-- Based on the data, there are multiple eligible employees for the mentorship program for almost every leadership level.
+- Based on the data, there is an abundance of eligible employees for the mentorship program for almost every leadership level.
+- The mentorship program is designed for employees close to retirement age to take on less of a role while training the incoming leadership employees. 
+
 ![image](https://user-images.githubusercontent.com/104038813/180309365-fa7fd882-a28d-44ff-8dca-96a4e8318960.png)
 ![image](https://user-images.githubusercontent.com/104038813/180309420-4cda2647-ac5d-4bd2-b51b-0bca5816c8f7.png)
 ![image](https://user-images.githubusercontent.com/104038813/180309490-34cf3697-090d-4bb2-9579-fd276d305375.png)
