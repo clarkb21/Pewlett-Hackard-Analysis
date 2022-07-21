@@ -56,4 +56,9 @@
  - The data above can also be organized by the number of potential mentors for each position in each department, seen below:
 
  ![image](https://user-images.githubusercontent.com/104038813/180316476-f16e4d3a-374c-4d80-bd67-2863c1f80c1e.png)
+ 
+- The PostgreSQL query that delivered the above tables is included in the image below:
+
+![image](https://user-images.githubusercontent.com/104038813/180317373-1bd2c5aa-3c3e-419e-ab78-ada826c3c057.png)
+
 
