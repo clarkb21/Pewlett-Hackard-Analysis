@@ -48,3 +48,7 @@
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
  
+ ![image](https://user-images.githubusercontent.com/104038813/180316540-68380f15-65a1-4f88-a4fd-74f3e104c9df.png)
+
+ ![image](https://user-images.githubusercontent.com/104038813/180316476-f16e4d3a-374c-4d80-bd67-2863c1f80c1e.png)
+
