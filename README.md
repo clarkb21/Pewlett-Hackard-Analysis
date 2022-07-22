@@ -53,9 +53,6 @@
  
  ![image](https://user-images.githubusercontent.com/104038813/180316540-68380f15-65a1-4f88-a4fd-74f3e104c9df.png)
  
- - The data above can also be organized by the number of potential mentors for each position in each department, seen below:
-
- ![image](https://user-images.githubusercontent.com/104038813/180316476-f16e4d3a-374c-4d80-bd67-2863c1f80c1e.png)
  
  - The total number of employees retiring by department is shown in the following table: 
  
@@ -63,6 +60,7 @@
  
  - The total number of qualified mentors by department is shown in the following table: 
  - We can see that each department has plenty of potential mentors, with Development and Production having the most.
+ - This data matches up with the total retirees table, which also has Prodcution and Devlopment with the majority.
  
  ![image](https://user-images.githubusercontent.com/104038813/180340935-945ff2ed-d72f-4c6f-bc66-52df03fd1b6c.png)
 
