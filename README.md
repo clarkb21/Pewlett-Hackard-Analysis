@@ -57,6 +57,11 @@
 
  ![image](https://user-images.githubusercontent.com/104038813/180316476-f16e4d3a-374c-4d80-bd67-2863c1f80c1e.png)
  
+ - The total number of employees retiring by department is shown in the following table: 
+ 
+ ![image](https://user-images.githubusercontent.com/104038813/180340299-c8e46484-64ff-42e4-acca-1b37e41d115a.png)
+
+ 
 - The PostgreSQL query that delivered the above tables is included in the image below:
 
 ![image](https://user-images.githubusercontent.com/104038813/180317373-1bd2c5aa-3c3e-419e-ab78-ada826c3c057.png)
