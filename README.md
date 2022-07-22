@@ -60,6 +60,11 @@
  - The total number of employees retiring by department is shown in the following table: 
  
  ![image](https://user-images.githubusercontent.com/104038813/180340299-c8e46484-64ff-42e4-acca-1b37e41d115a.png)
+ 
+ - The total number of qualified mentors by department is shown in the following table: 
+ 
+ ![image](https://user-images.githubusercontent.com/104038813/180340935-945ff2ed-d72f-4c6f-bc66-52df03fd1b6c.png)
+
 
  
 - The PostgreSQL query that delivered the above tables is included in the image below:
